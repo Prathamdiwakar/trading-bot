@@ -1,0 +1,8 @@
+2026-07-07 10:58:48,777 [INFO] Logger initialized
+2026-07-07 10:58:49,264 [INFO] Binance Futures Testnet client initialized
+2026-07-07 10:58:49,265 [INFO] Placing MARKET BUY order | Symbol: BTCUSDT | Qty: 0.001
+2026-07-07 10:58:49,812 [INFO] Order placed successfully!
+2026-07-07 10:58:49,812 [INFO] Order ID: 19755828908
+2026-07-07 10:58:49,812 [INFO] Status: NEW
+2026-07-07 10:58:49,812 [INFO] Executed Qty: 0.0000
+2026-07-07 10:58:49,813 [INFO] Avg Price: N/A

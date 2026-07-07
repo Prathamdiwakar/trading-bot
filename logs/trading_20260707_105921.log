@@ -1,0 +1,5 @@
+2026-07-07 10:59:21,652 [INFO] Logger initialized
+2026-07-07 10:59:21,926 [INFO] Binance Futures Testnet client initialized
+2026-07-07 10:59:21,926 [INFO] Placing LIMIT SELL order | Symbol: BTCUSDT | Qty: 0.001 | Price: 50000
+2026-07-07 10:59:22,161 [ERROR] Order failed: APIError(code=-4024): Limit price can't be lower than 59767.26.
+2026-07-07 10:59:22,161 [ERROR] Unexpected error: APIError(code=-4024): Limit price can't be lower than 59767.26.
